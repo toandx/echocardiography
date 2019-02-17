@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="Canvas">
+        <attr name="paint_color" format="string"/>
+        <attr name="paint_width" format="string"/>
+        <attr name="bg_color" format="string"/>
+    </declare-styleable>
+</resources>
