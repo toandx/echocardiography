@@ -360,6 +360,7 @@ public class drawView extends View {
             backup.push(p);
         }
         paths.clear();
+        points.clear();
         invalidate();
     }
 
